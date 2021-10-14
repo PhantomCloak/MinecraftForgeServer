@@ -24,7 +24,7 @@ jobs:
             docker build . -t ${{ secrets.REGISTRY_LOGIN_SERVER }}/mc_mod
             docker push ${{ secrets.REGISTRY_LOGIN_SERVER }}/mc_mod
 
-        - name: 'Pressing save game'
+        - name: 'Pressing save game OwO'
           uses: 'azure/aci-deploy@v1'
           with:
           
