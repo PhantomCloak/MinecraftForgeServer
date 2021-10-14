@@ -37,4 +37,5 @@ jobs:
             name: bigfattyfemboy
             memory: 4
             cpu: 2
+            ports: 25565
             location: 'west europe'
