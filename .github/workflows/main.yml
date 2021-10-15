@@ -35,10 +35,10 @@ jobs:
             registry-username: ${{ secrets.REGISTRY_USERNAME }}
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: bigfattyfemboy
-            azure-file-volume-account-key: wmToQ96K6dys1EGvwF1TYpqPPT4soRBEEn+LTQd5lpA/3rgANxcxBNUJC30q9pSgpfb7pSXas4uQQH5JaCvbRw==
+            azure-file-volume-account-key: Rup/HlPO+WdvJvwMj6zvFo7pTIG9h+Sq8fNDXRzCe6mjLDmGj78rKjHR3Bsy59ejccTgMj47VpfLsNuS83E82Q==
             azure-file-volume-account-name: bussybooty
             azure-file-volume-mount-path: /usr/src/mcserver/world
-            azure-file-volume-share-name: acishare
+            azure-file-volume-share-name: acishare2
             memory: 4
             cpu: 2
             ports: 25565
