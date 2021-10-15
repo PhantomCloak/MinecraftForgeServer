@@ -39,7 +39,7 @@ jobs:
             azure-file-volume-account-name: bussybooty
             azure-file-volume-mount-path: /usr/src/mcserver/world
             azure-file-volume-share-name: acishare2
-            memory: 4
+            memory: 6
             cpu: 2
             ports: 25565
             location: 'west europe'
