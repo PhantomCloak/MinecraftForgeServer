@@ -1,0 +1,16 @@
+[
+  {
+    "name": "safe",
+    "class": "factionmod.manager.ManagerSafeZone",
+    "instance": "DEFAULT"
+  },
+  {
+    "name": "war",
+    "class": "factionmod.manager.ManagerWarZone",
+    "instance": "DEFAULT"
+  },
+  {
+    "name": "faction",
+    "class": "factionmod.manager.ManagerFaction"
+  }
+]
